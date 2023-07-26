@@ -11,6 +11,7 @@ public class Program
         Console.WriteLine(dol);
         int difuDatas = DateTime.Compare(data, data2);
         Console.WriteLine(difuDatas);
+        int dif = data.CompareTo(data2); 
         /*DateTime dataVencimento = data.AddDays(2);
         DateTime HORArond = Convert.ToDateTime(DateTime.UtcNow);
         DateTime hora = HORArond.AddHours(-4);*/

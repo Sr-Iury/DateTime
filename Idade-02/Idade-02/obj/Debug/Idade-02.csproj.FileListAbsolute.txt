@@ -1,0 +1,11 @@
+C:\Users\ducil\OneDrive\Documentos\POO\estudando DATETIME\Idade-02\Idade-02\bin\Debug\Idade-02.exe.config
+C:\Users\ducil\OneDrive\Documentos\POO\estudando DATETIME\Idade-02\Idade-02\bin\Debug\Idade-02.exe
+C:\Users\ducil\OneDrive\Documentos\POO\estudando DATETIME\Idade-02\Idade-02\bin\Debug\Idade-02.pdb
+C:\Users\ducil\OneDrive\Documentos\POO\estudando DATETIME\Idade-02\Idade-02\obj\Debug\Idade-02.csproj.AssemblyReference.cache
+C:\Users\ducil\OneDrive\Documentos\POO\estudando DATETIME\Idade-02\Idade-02\obj\Debug\Idade-02.csproj.SuggestedBindingRedirects.cache
+C:\Users\ducil\OneDrive\Documentos\POO\estudando DATETIME\Idade-02\Idade-02\obj\Debug\Idade_02.Form1.resources
+C:\Users\ducil\OneDrive\Documentos\POO\estudando DATETIME\Idade-02\Idade-02\obj\Debug\Idade_02.Properties.Resources.resources
+C:\Users\ducil\OneDrive\Documentos\POO\estudando DATETIME\Idade-02\Idade-02\obj\Debug\Idade-02.csproj.GenerateResource.cache
+C:\Users\ducil\OneDrive\Documentos\POO\estudando DATETIME\Idade-02\Idade-02\obj\Debug\Idade-02.csproj.CoreCompileInputs.cache
+C:\Users\ducil\OneDrive\Documentos\POO\estudando DATETIME\Idade-02\Idade-02\obj\Debug\Idade-02.exe
+C:\Users\ducil\OneDrive\Documentos\POO\estudando DATETIME\Idade-02\Idade-02\obj\Debug\Idade-02.pdb
