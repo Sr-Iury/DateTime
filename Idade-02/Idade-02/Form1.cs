@@ -19,7 +19,7 @@ namespace Idade_02
 
         private void button1_Click(object sender, EventArgs e)
         {
-            /*DateTime dataNas = dateTimePicker1.Value;
+            DateTime dataNas = dateTimePicker1.Value;
             DateTime dataATUAL = DateTime.Today;
             int idade1 = dataATUAL.Year - dataNas.Year;
             if(dataATUAL.Month >= dataNas.Month)
@@ -39,18 +39,7 @@ namespace Idade_02
                 idade1--;
                 idade.Text = idade1.ToString();
             }
-            */
-
-            int idade1 = DateTime.Today.Year - dateTimePicker1.Value.Year;
-            if(DateTime.Today.DayOfYear >= dateTimePicker1.Value.DayOfYear)
-            {
-                idade1--;
-                idade.Text = idade1.ToString();
-            }
-            else
-            {
-                idade.Text = idade1.ToString();
-            }
+            
         }
 
         private void idade_Click(object sender, EventArgs e)
